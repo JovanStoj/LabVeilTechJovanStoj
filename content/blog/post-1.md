@@ -1,7 +1,7 @@
 ---
-title: "16 Tendances UX et UI à ne pas Manquer en 2023"
+title: "16 tendances UX et UI à ne pas manquer en 2023"
 date: 2024-01-01T15:40:24+06:00
-image : "images/article2.png"
+image : "images/article02.png"
 # author
 author : ["Stojanovic Jovan"]
 # categories
@@ -13,7 +13,7 @@ description: "This is meta description"
 draft: false
 ---
 
-# 16 Tendances UX et UI à ne pas Manquer en 2023
+# 16 tendances UX et UI à ne pas manquer en 2023
 
 Dans l'univers dynamique de l'UX/UI, l'article du Graphiste Blog se démarque en présentant 16 tendances essentielles pour 2023. Il explore divers aspects tels que l'intégration de la réalité augmentée dans les interfaces, soulignant son potentiel à enrichir l'expérience utilisateur. L'article met également un accent particulier sur l'accessibilité numérique, un domaine de plus en plus prioritaire dans la conception web. De plus, il aborde l'utilisation innovante des couleurs et des typographies, éléments clés pour attirer et retenir l'attention de l'utilisateur.
 

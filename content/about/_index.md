@@ -7,13 +7,15 @@ draft: false
 ---
 
 ## Mon Ikigai en UX/UI
-Mon Ikigai en UX/UI est l'intersection harmonieuse de ma passion pour le design créatif, mon expertise technique, les besoins croissants du marché en matière d'expériences utilisateur de qualité et ma carrière professionnelle. Cette combinaison unique me motive à explorer continuellement de nouvelles frontières en UX/UI, en apportant des solutions innovantes et significatives.
+Mon Ikigai en UX/UI est l'intersection harmonieuse de ma passion pour le design créatif, mon expertise technique, les besoins croissants du marché en matière d'expériences utilisateur et mon expérience professionnelle. Cette combinaison unique me motive à explorer continuellement de nouvelles frontières en UX/UI, en apportant des solutions innovantes et significatives.
+
+![Image Placeholder: Menu Ikigai](/images/Ikigai.png)
 
 ## Domaine et Expertise
 Je me spécialise dans la création d'expériences utilisateur intuitives et captivantes, avec un accent particulier sur le design minimaliste et l'intégration de micro-interactions. Mon objectif est de créer des interfaces qui ne sont pas seulement fonctionnelles mais aussi esthétiquement plaisantes et engageantes.
 
 ## À Propos de Moi
-Mon parcours en design graphique, combiné à ma passion pour la technologie, m'a naturellement conduit vers le domaine de l'UX/UI. Cette synergie entre créativité et technologie est le moteur de mon approche de conception, où je cherche constamment à innover et à améliorer l'expérience utilisateur.
+Mes cours en design graphique, combiné à ma passion pour la technologie, m'a naturellement conduit vers le domaine de l'UX/UI. Cette synergie entre créativité et technologie est le moteur de mon approche de conception, où je cherche constamment à innover et à améliorer l'expérience utilisateur.
 
 ## Taxonomies en UX/UI design
 
@@ -46,4 +48,4 @@ L'accessibilité en design réfère à la création de produits et d'environneme
 L'intégration de l'accessibilité dans le design UX/UI est essentielle pour créer des produits inclusifs. Cela garantit que le plus grand nombre possible d'utilisateurs puisse bénéficier d'une expérience positive, indépendamment de leurs capacités. Un design accessible améliore l'expérience utilisateur pour tous et répond à des obligations légales et éthiques.
 
 ## Choix du SSG
-Mon choix de Hugo comme SSG a été motivé par sa performance exceptionnelle, sa facilité d'utilisation et ses capacités de référencement naturel optimales. Cette plateforme me permet de présenter efficacement mon travail tout en offrant une expérience utilisateur rapide et fluide.
+Mon choix de Hugo comme SSG a été motivé par sa facilité d'utilisation et ses capacités de référencement naturel optimales. Cette plateforme me permet de présenter efficacement mon travail tout en offrant une expérience utilisateur rapide et fluide.

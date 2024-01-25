@@ -1,11 +1,11 @@
 ---
-title: "Theatre of Operations"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-3.png"
+title: "Les différences entre la conception UX et UI"
+date: 2024-01-01T15:40:24+06:00
+image : "images/article03.png"
 # author
-author : ["Admin"]
+author : ["Stojanovic Jovan"]
 # categories
-categories: ["operations"]
+categories: ["blog"]
 tage: ["tags"]
 # meta description
 description: "This is meta description"
@@ -13,6 +13,14 @@ description: "This is meta description"
 draft: false
 ---
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+# Les différences entre la conception UX et UI
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+L'article de Snapp offre une analyse approfondie des différences entre l'UX (User Experience) et l'UI (User Interface). Alors que l'UX se concentre sur l'expérience globale et le parcours de l'utilisateur avec un produit ou un service, l'UI se focalise davantage sur les aspects visuels et interactifs de l'interface. Cette distinction est fondamentale pour comprendre les multiples facettes de la conception d'expériences numériques.
+
+J'ai choisi cet article car il clarifie des concepts souvent mal compris ou confondus. Cette compréhension renforcée des deux domaines me permet d'affiner mes compétences et d'améliorer ma communication professionnelle.
+
+La distinction claire entre UX et UI est essentielle pour développer des stratégies de conception efficaces. Cela m'aide à mieux équilibrer l'aspect visuel et l'expérience globale dans mes projets, assurant ainsi des solutions plus complètes et centrées sur l'utilisateur.
+
+Ces connaissances me permettent de structurer mes projets de manière plus complète, en donnant une attention égale à l'expérience utilisateur globale et à l'esthétique de l'interface. Cela conduit à des résultats plus harmonieux et fonctionnels.
+
+[Lien vers l'Article Original](https://www.snapp.fr/quelle-est-la-difference-entre-la-conception-ux-et-la-conception-ui/)

@@ -1,7 +1,7 @@
 ---
-title: "Mon Système de Veille en Conception UX/UI"
+title: "Mon système de veille en conception UX/UI"
 date: 2024-01-01T15:40:24+06:00
-image : "images/article2.png"
+image : "images/article01.png"
 # author
 author : ["Stojanovic Jovan"]
 # categories
@@ -13,21 +13,21 @@ description: "This is meta description"
 draft: false
 ---
 
-# Mon Système de Veille en Conception UX/UI
+# Mon système de veille en conception UX/UI
 
-### Introduction à la Veille Technologique
+### Introduction à la veille technologique
 
 Dans le domaine en constante évolution de la conception d'expérience utilisateur (UX) et d'interface utilisateur (UI), la veille technologique est cruciale. Elle permet non seulement de rester informé des dernières tendances, mais aussi de découvrir de nouveaux outils et pratiques qui émergent régulièrement. Cette veille est essentielle pour maintenir une approche innovante et compétitive dans la conception UX/UI.
 
-### Mon Système de Veille
+### Mon système de veille
 
-Ma routine quotidienne de veille se compose de plusieurs activités clés. Chaque jour, je consulte des blogs influents dans le domaine de l'UX/UI, comme le Graphiste Blog, Snapp, et Usabilis. Ces sources sont inestimables pour leur expertise approfondie et leurs perspectives sur les tendances actuelles et futures. En outre, les réseaux sociaux, et notamment LinkedIn, jouent un rôle crucial dans ma veille. Ils me permettent de suivre les leaders d'opinion et les innovateurs du domaine, d'interagir avec eux et de rester au courant des discussions actuelles dans la communauté UX/UI.
+Ma routine quotidienne de veille se compose de plusieurs activités clés. Je consulte des blogs influents dans le domaine de l'UX/UI, Ces sources sont importante pour leur expertise approfondie et leurs perspectives sur les tendances actuelles et futures. En outre, les réseaux sociaux, et notamment LinkedIn, jouent un rôle crucial dans ma veille. Ils me permettent de suivre les leaders d'opinion et les innovateurs du domaine, d'interagir avec eux et de rester au courant des discussions actuelles dans la communauté UX/UI.
 
-### Gestion et Organisation
+### Gestion et organisation
 
-Pour gérer efficacement les informations collectées, j'utilise des outils numériques tels qu'Evernote et Trello. Evernote me sert de carnet de notes numérique où je stocke des idées, des articles, et des inspirations. Chaque information est soigneusement catégorisée par thème et date pour un accès et une référence faciles. Trello, quant à lui, est utilisé pour gérer et suivre les projets en cours. Cela me permet de voir comment les tendances et les connaissances acquises peuvent être appliquées dans des projets réels, en transformant les idées en actions concrètes.
+Pour gérer efficacement les informations collectées, j'utilise des outils numériques tels que Notion. Notion me sert de carnet de notes numérique où je stocke des idées, des articles, et des inspirations. Chaque information est soigneusement catégorisée par thème et date pour un accès et une référence faciles.
 
-### Application Pratique
+### Application pratique
 
 L'application pratique de cette veille se manifeste dans mes projets de conception UX/UI. Par exemple, en intégrant les dernières tendances en matière de micro-interactions, je peux créer des expériences utilisateurs plus engageantes et mémorables. Le design minimaliste, un autre aspect clé que j'ai adopté, aide à épurée l'interface utilisateur, en mettant l'accent sur la simplicité et la fonctionnalité. Ces approches améliorent non seulement l'esthétique des projets, mais aussi leur usabilité et leur accessibilité, assurant ainsi une expérience utilisateur optimale.
 
